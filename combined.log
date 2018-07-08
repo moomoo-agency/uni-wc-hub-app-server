@@ -1,0 +1,1585 @@
+{"0":"3","1":"0","2":" ","3":"i","4":"s","5":" ","6":"a","7":" ","8":"i","9":"n","10":"v","11":"a","12":"l","13":"i","14":"d","15":" ","16":"e","17":"x","18":"p","19":"r","20":"e","21":"s","22":"s","23":"i","24":"o","25":"n","26":" ","27":"f","28":"o","29":"r","30":" ","31":"h","32":"o","33":"u","34":"r","level":"error","message":"\"plugin: add-cron-jobs\": Error"}
+{"message":"\"plugin: add-cron-jobs\": Error 30 is a invalid expression for hour","level":"error"}
+{"message":"\"plugin: add-cron-jobs\": Error 30 is a invalid expression for hour","level":"error"}
+{"message":"\"plugin: add-cron-jobs\": Error \"30\" is a invalid expression for hour","level":"error"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"saveOrdersToDB\": Error TypeError: Cannot read property 'items' of undefined","level":"error"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"getItemsAllSites\": No token for colourgraphics","level":"warn"}
+{"message":"\"getItemsAllSites\": No token for undefined","level":"warn"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"\"getItemsAllSites\": No token for colourgraphics","level":"warn"}
+{"message":"\"getItemsAllSites\": No token for undefined","level":"warn"}
+{"message":"\"updateOrdersCronJob\": run","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"level":"info","message":"\"updateTokens\" started"}
+{"level":"info","message":"\"updateTokens\" finished"}
+{"level":"info","message":"\"getItemsAllSites\" started"}
+{"message":"\"getItemsAllSites\" finished","level":"info"}
+{"message":"\"saveOrdersToDB\" started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"","exp":""},"level":"info","message":"\"updateTokens\" started"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":"[object Object]1","level":"info","message":"\"updateTokens\" finished"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":"[object Object]1","level":"info","message":"\"getItemsAllSites\" started"}
+{"message":"\"getItemsAllSites\": No token for colourgraphics","level":"warn"}
+{"message":"\"getItemsAllSites\": No token for undefined","level":"warn"}
+{"message":"\"getItemsAllSites\" finished","level":"info"}
+{"message":"\"saveOrdersToDB\" started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"","exp":""},"level":"info","message":"\"updateTokens\" started"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":"[object Object]1","level":"info","message":"\"updateTokens\" finished"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":"[object Object]1","level":"info","message":"\"getItemsAllSites\" started"}
+{"message":"\"getItemsAllSites\": No token for colourgraphics","level":"warn"}
+{"message":"\"getItemsAllSites\": No token for undefined","level":"warn"}
+{"message":"\"getItemsAllSites\" finished","level":"info"}
+{"message":"\"saveOrdersToDB\" started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"","exp":""},"level":"info","message":"\"updateTokens\" started"}
+{"message":"-- step for colourgraphics","level":"info"}
+{"message":"-- before api call --","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"","exp":""},"level":"info","message":"\"updateTokens\" started"}
+{"message":"-- step for colourgraphics","level":"info"}
+{"message":"-- before api call --","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvbW9vLWNvbG91cmdyYXBoaWNzLmxvYyIsImV4cCI6MTUyODA4NjAwOCwibmJmIjoxNTI3NDgxMjA4LCJpYXQiOjE1Mjc0ODEyMDgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.o05dXUrTHLmMCUC2kRik5l6rzHG2QqmZQWotIPZMNnY","exp":"2018-05-31T04:20:03.402Z"},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvdW5pY3BvLmxvYyIsImV4cCI6MTUyODA4NTg5MywibmJmIjoxNTI3NDgxMDkzLCJpYXQiOjE1Mjc0ODEwOTMsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.PVlweaz4Er7H_Gg3TyPODvCTNXREsfyUP79x_A6EesE","exp":"2018-05-31T04:18:07.971Z"},"level":"info","message":"\"updateTokens\" started"}
+{"message":"-- step for colourgraphics","level":"info"}
+{"message":"-- step for undefined","level":"info"}
+{"message":"-- step for unicpo","level":"info"}
+{"message":"-- step for undefined","level":"info"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvbW9vLWNvbG91cmdyYXBoaWNzLmxvYyIsImV4cCI6MTUyODA4NjAwOCwibmJmIjoxNTI3NDgxMjA4LCJpYXQiOjE1Mjc0ODEyMDgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.o05dXUrTHLmMCUC2kRik5l6rzHG2QqmZQWotIPZMNnY","exp":"2018-05-31T04:20:03.402Z"},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvdW5pY3BvLmxvYyIsImV4cCI6MTUyODA4NTg5MywibmJmIjoxNTI3NDgxMDkzLCJpYXQiOjE1Mjc0ODEwOTMsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.PVlweaz4Er7H_Gg3TyPODvCTNXREsfyUP79x_A6EesE","exp":"2018-05-31T04:18:07.971Z"},"level":"info","message":"\"updateTokens\" finished"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvbW9vLWNvbG91cmdyYXBoaWNzLmxvYyIsImV4cCI6MTUyODA4NjAwOCwibmJmIjoxNTI3NDgxMjA4LCJpYXQiOjE1Mjc0ODEyMDgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.o05dXUrTHLmMCUC2kRik5l6rzHG2QqmZQWotIPZMNnY","exp":"2018-05-31T04:20:03.402Z"},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvdW5pY3BvLmxvYyIsImV4cCI6MTUyODA4NTg5MywibmJmIjoxNTI3NDgxMDkzLCJpYXQiOjE1Mjc0ODEwOTMsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.PVlweaz4Er7H_Gg3TyPODvCTNXREsfyUP79x_A6EesE","exp":"2018-05-31T04:18:07.971Z"},"level":"info","message":"\"getItemsAllSites\" started"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"-- step for colourgraphics","level":"info"}
+{"message":"-- before api call --","level":"info"}
+{"message":"-- response status 200","level":"info"}
+{"message":"-- step for [object Object]","level":"info"}
+{"message":"-- step for unicpo","level":"info"}
+{"message":"-- before api call --","level":"info"}
+{"message":"-- response status 200","level":"info"}
+{"message":"-- step for [object Object]","level":"info"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":"[object Object]1","level":"info","message":"\"updateTokens\" finished"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":"[object Object]1","level":"info","message":"\"getItemsAllSites\" started"}
+{"message":"\"getItemsAllSites\": No token for colourgraphics","level":"warn"}
+{"message":"\"getItemsAllSites\": No token for undefined","level":"warn"}
+{"message":"\"getItemsAllSites\" finished","level":"info"}
+{"message":"\"saveOrdersToDB\" started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"-- step for colourgraphics","level":"info"}
+{"message":"-- before api call --","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"level":"info","message":"\"updateTokens\" finished"}
+{"level":"info","message":"\"getItemsAllSites\" started"}
+{"message":"\"getItemsAllSites\" finished","level":"info"}
+{"message":"\"saveOrdersToDB\" started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"-- step for colourgraphics","level":"info"}
+{"message":"-- before api call --","level":"info"}
+{"message":"-- response status 200","level":"info"}
+{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvbW9vLWNvbG91cmdyYXBoaWNzLmxvYyIsImV4cCI6MTUyODA4ODA1MCwibmJmIjoxNTI3NDgzMjUwLCJpYXQiOjE1Mjc0ODMyNTAsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.LBTyqY9Wq73xRBvLzf5pSu7e41IW_cZ3ba3g-tRRK1I","exp":"2018-05-31T04:54:02.845Z","level":"info","message":"-- new site obj"}
+{"message":"-- step for unicpo","level":"info"}
+{"message":"-- before api call --","level":"info"}
+{"message":"-- response status 200","level":"info"}
+{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvdW5pY3BvLmxvYyIsImV4cCI6MTUyODA4ODA1NCwibmJmIjoxNTI3NDgzMjU0LCJpYXQiOjE1Mjc0ODMyNTQsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.4BHMkJ4WzjdjmUm9Hb_PoQpWcKf1hIhsiZaOpFRltuE","exp":"2018-05-31T04:54:06.933Z","level":"info","message":"-- new site obj"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":"[object Object]1","level":"info","message":"\"updateTokens\" finished"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":"[object Object]1","level":"info","message":"\"getItemsAllSites\" started"}
+{"message":"\"getItemsAllSites\": No token for colourgraphics","level":"warn"}
+{"message":"\"getItemsAllSites\": No token for undefined","level":"warn"}
+{"message":"\"getItemsAllSites\" finished","level":"info"}
+{"message":"\"saveOrdersToDB\" started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"","exp":""},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"","exp":""},"level":"info","message":"::: sites"}
+{"message":"-- before api call --","level":"info"}
+{"message":"-- before api call --","level":"info"}
+{"message":"-- response status 200, waiting for token","level":"info"}
+{"0":"e","1":"y","2":"J","3":"0","4":"e","5":"X","6":"A","7":"i","8":"O","9":"i","10":"J","11":"K","12":"V","13":"1","14":"Q","15":"i","16":"L","17":"C","18":"J","19":"h","20":"b","21":"G","22":"c","23":"i","24":"O","25":"i","26":"J","27":"I","28":"U","29":"z","30":"I","31":"1","32":"N","33":"i","34":"J","35":"9","36":".","37":"e","38":"y","39":"J","40":"p","41":"c","42":"3","43":"M","44":"i","45":"O","46":"i","47":"J","48":"o","49":"d","50":"H","51":"R","52":"w","53":"c","54":"z","55":"p","56":"c","57":"L","58":"1","59":"w","60":"v","61":"b","62":"W","63":"9","64":"v","65":"L","66":"W","67":"N","68":"v","69":"b","70":"G","71":"9","72":"1","73":"c","74":"m","75":"d","76":"y","77":"Y","78":"X","79":"B","80":"o","81":"a","82":"W","83":"N","84":"z","85":"L","86":"m","87":"x","88":"v","89":"Y","90":"y","91":"I","92":"s","93":"I","94":"m","95":"V","96":"4","97":"c","98":"C","99":"I","100":"6","101":"M","102":"T","103":"U","104":"y","105":"O","106":"D","107":"A","108":"5","109":"M","110":"T","111":"Y","112":"1","113":"O","114":"C","115":"w","116":"i","117":"b","118":"m","119":"J","120":"m","121":"I","122":"j","123":"o","124":"x","125":"N","126":"T","127":"I","128":"3","129":"N","130":"D","131":"g","132":"2","133":"O","134":"D","135":"U","136":"4","137":"L","138":"C","139":"J","140":"p","141":"Y","142":"X","143":"Q","144":"i","145":"O","146":"j","147":"E","148":"1","149":"M","150":"j","151":"c","152":"0","153":"O","154":"D","155":"Y","156":"4","157":"N","158":"T","159":"g","160":"s","161":"I","162":"m","163":"R","164":"h","165":"d","166":"G","167":"E","168":"i","169":"O","170":"n","171":"s","172":"i","173":"d","174":"X","175":"N","176":"l","177":"c","178":"l","179":"9","180":"p","181":"Z","182":"C","183":"I","184":"6","185":"I","186":"j","187":"E","188":"i","189":"f","190":"X","191":"0","192":".","193":"N","194":"4","195":"2","196":"2","197":"e","198":"e","199":"q","200":"z","201":"W","202":"S","203":"J","204":"M","205":"p","206":"T","207":"u","208":"m","209":"i","210":"6","211":"Q","212":"p","213":"y","214":"b","215":"K","216":"Q","217":"6","218":"E","219":"c","220":"o","221":"I","222":"H","223":"e","224":"t","225":"1","226":"2","227":"S","228":"J","229":"z","230":"w","231":"i","232":"V","233":"d","234":"k","235":"A","level":"info","message":"-- token: "}
+{"message":"-- response status 200, waiting for token","level":"info"}
+{"0":"e","1":"y","2":"J","3":"0","4":"e","5":"X","6":"A","7":"i","8":"O","9":"i","10":"J","11":"K","12":"V","13":"1","14":"Q","15":"i","16":"L","17":"C","18":"J","19":"h","20":"b","21":"G","22":"c","23":"i","24":"O","25":"i","26":"J","27":"I","28":"U","29":"z","30":"I","31":"1","32":"N","33":"i","34":"J","35":"9","36":".","37":"e","38":"y","39":"J","40":"p","41":"c","42":"3","43":"M","44":"i","45":"O","46":"i","47":"J","48":"o","49":"d","50":"H","51":"R","52":"w","53":"c","54":"z","55":"p","56":"c","57":"L","58":"1","59":"w","60":"v","61":"d","62":"W","63":"5","64":"p","65":"Y","66":"3","67":"B","68":"v","69":"L","70":"m","71":"x","72":"v","73":"Y","74":"y","75":"I","76":"s","77":"I","78":"m","79":"V","80":"4","81":"c","82":"C","83":"I","84":"6","85":"M","86":"T","87":"U","88":"y","89":"O","90":"D","91":"A","92":"5","93":"M","94":"T","95":"Y","96":"1","97":"O","98":"C","99":"w","100":"i","101":"b","102":"m","103":"J","104":"m","105":"I","106":"j","107":"o","108":"x","109":"N","110":"T","111":"I","112":"3","113":"N","114":"D","115":"g","116":"2","117":"O","118":"D","119":"U","120":"4","121":"L","122":"C","123":"J","124":"p","125":"Y","126":"X","127":"Q","128":"i","129":"O","130":"j","131":"E","132":"1","133":"M","134":"j","135":"c","136":"0","137":"O","138":"D","139":"Y","140":"4","141":"N","142":"T","143":"g","144":"s","145":"I","146":"m","147":"R","148":"h","149":"d","150":"G","151":"E","152":"i","153":"O","154":"n","155":"s","156":"i","157":"d","158":"X","159":"N","160":"l","161":"c","162":"l","163":"9","164":"p","165":"Z","166":"C","167":"I","168":"6","169":"I","170":"j","171":"E","172":"i","173":"f","174":"X","175":"0","176":".","177":"H","178":"a","179":"h","180":"D","181":"R","182":"H","183":"1","184":"L","185":"g","186":"1","187":"A","188":"1","189":"Q","190":"p","191":"Y","192":"Q","193":"y","194":"u","195":"M","196":"e","197":"n","198":"r","199":"5","200":"-","201":"n","202":"C","203":"Q","204":"3","205":"m","206":"j","207":"5","208":"f","209":"Y","210":"S","211":"L","212":"M","213":"z","214":"m","215":"P","216":"d","217":"S","218":"o","219":"U","level":"info","message":"-- token: "}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvbW9vLWNvbG91cmdyYXBoaWNzLmxvYyIsImV4cCI6MTUyODA5MTY1OCwibmJmIjoxNTI3NDg2ODU4LCJpYXQiOjE1Mjc0ODY4NTgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.N422eeqzWSJMpTumi6QpybKQ6EcoIHet12SJzwiVdkA","exp":"2018-05-31T05:54:06.461Z"},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvdW5pY3BvLmxvYyIsImV4cCI6MTUyODA5MTY1OCwibmJmIjoxNTI3NDg2ODU4LCJpYXQiOjE1Mjc0ODY4NTgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.HahDRH1Lg1A1QpYQyuMenr5-nCQ3mj5fYSLMzmPdSoU","exp":"2018-05-31T05:54:06.496Z"},"level":"info","message":"-- sitesList"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvbW9vLWNvbG91cmdyYXBoaWNzLmxvYyIsImV4cCI6MTUyODA5MTY1OCwibmJmIjoxNTI3NDg2ODU4LCJpYXQiOjE1Mjc0ODY4NTgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.N422eeqzWSJMpTumi6QpybKQ6EcoIHet12SJzwiVdkA","exp":"2018-05-31T05:54:06.461Z"},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvdW5pY3BvLmxvYyIsImV4cCI6MTUyODA5MTY1OCwibmJmIjoxNTI3NDg2ODU4LCJpYXQiOjE1Mjc0ODY4NTgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.HahDRH1Lg1A1QpYQyuMenr5-nCQ3mj5fYSLMzmPdSoU","exp":"2018-05-31T05:54:06.496Z"},"level":"info","message":"::: newSites"}
+{"0":{"_id":"colourgraphics","url":"https://moo-colourgraphics.loc","username":"moo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvbW9vLWNvbG91cmdyYXBoaWNzLmxvYyIsImV4cCI6MTUyODA5MTY1OCwibmJmIjoxNTI3NDg2ODU4LCJpYXQiOjE1Mjc0ODY4NTgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.N422eeqzWSJMpTumi6QpybKQ6EcoIHet12SJzwiVdkA","exp":"2018-05-31T05:54:06.461Z"},"1":{"_id":"unicpo","url":"https://unicpo.loc","username":"moomoo_developer","password":"moomoo best devs","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvdW5pY3BvLmxvYyIsImV4cCI6MTUyODA5MTY1OCwibmJmIjoxNTI3NDg2ODU4LCJpYXQiOjE1Mjc0ODY4NTgsImRhdGEiOnsidXNlcl9pZCI6IjEifX0.HahDRH1Lg1A1QpYQyuMenr5-nCQ3mj5fYSLMzmPdSoU","exp":"2018-05-31T05:54:06.496Z"},"level":"info","message":"\"getItemsAllSites\" started"}
+{"message":"\"getItemsAllSites\" finished","level":"info"}
+{"message":"::: orderItems","level":"info"}
+{"message":"\"saveOrdersToDB\" started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"getItemsAllSites\": Error TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"getItemsAllSites\": Error TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"getItemsAllSites\": Error TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"message":"\"request params\": [object Object]","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":15,"level":"info","message":"\"request params\":"}
+{"message":"\"Saved to DB order with ID:\", 691","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 667","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 596","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 576","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 573","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 570","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 564","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 563","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 561","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 560","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 558","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 539","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 538","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 537","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 534","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 302","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 301","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 300","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 299","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 286","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 272","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 271","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 270","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 268","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 198","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 193","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 150","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 134","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 132","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 116","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":15,"level":"info","message":"\"request params\":"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'code' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'code' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'code' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":500,"level":"info","message":"\"request params\":"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'code' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":100,"level":"info","message":"\"request params\":"}
+{"message":"Report for orders pull job \n        (2018-4-2 9:i) ==Site colourgraphics: code 200, \n            items count 21 ===== Site unicpo: code 200, \n            items count 19 ===== ","level":"info"}
+{"message":"\"getItemsAllSites\":: TypeError: allItems.toJS is not a function","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":100,"level":"info","message":"\"request params\":"}
+{"message":"Report for orders pull job (June 5, 2018 9:08 AM) ==\r\n Site colourgraphics: code 200, \n            items count 21 ===== Site unicpo: code 200, \n            items count 19 ===== ","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":100,"level":"info","message":"\"request params\":"}
+{"message":"Report for orders pull job (June 5, 2018 9:10 AM) ==\r\n Site colourgraphics: code 200, items count 21\r\n ===== Site unicpo: code 200, items count 19\r\n ===== ","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":100,"level":"info","message":"\"request params\":"}
+{"message":"== Report for orders pull job (June 5, 2018 9:12 AM) ==\r\n\r\nSite colourgraphics: code 200, items count 21\r\nSite unicpo: code 200, items count 19\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":100,"level":"info","message":"\"request params\":"}
+{"message":"== Report for orders pull job (June 5, 2018 4:16 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 21\r\nSite #\"unicpo\": response code 200, pulled items count 19\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":15,"level":"info","message":"\"request params\":"}
+{"message":"\"apiCall\":: Error: timeout of 30000ms exceeded","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'status' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"updateOrdersCronJob\": started","level":"info"}
+{"offset":0,"per_page":100,"level":"info","message":"\"request params\":"}
+{"message":"== Report for orders pull job (June 21, 2018 4:05 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 21\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #308","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"== Report for orders pull job (June 21, 2018 6:08 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 21\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"== Report for orders pull job (June 21, 2018 6:17 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 21\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #308","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"== Report for orders pull job (June 22, 2018 6:19 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 21\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #308","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-26T15:22:51.723Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-26T15:24:31.917Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-26T15:25:59.088Z)","level":"info"}
+{"message":"User Homer Simpson logged in (2018-06-26T15:26:40.040Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-27T06:10:28.470Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:13:31.565Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:14:42.651Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:17:58.352Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:21:05.274Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:25:31.846Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:26:24.214Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:27:04.597Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:27:30.424Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:46:30.196Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:49:09.777Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T06:53:45.578Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:01:17.107Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:02:03.438Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:09:31.082Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:11:19.661Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:13:19.015Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:14:57.562Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:16:29.816Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:18:37.997Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:38:12.262Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:40:37.894Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:43:33.584Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:44:22.361Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T07:46:10.464Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T10:40:23.772Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T10:42:41.731Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T11:01:01.017Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T11:04:28.627Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T11:07:04.303Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T11:07:23.036Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"getSite\":: TypeError: Cannot read property 'db' of undefined","level":"error"}
+{"message":"User Jack Sparrow logged in (2018-06-29T11:10:08.503Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"getSite\":: TypeError: Cannot read property 'db' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"getSite\":: TypeError: Cannot read property 'db' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"getSite\":: TypeError: Cannot read property 'db' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T11:35:05.396Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:03:06.060Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:08:56.918Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:10:19.359Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:11:02.742Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:12:10.545Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:14:43.042Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:19:12.396Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:20:02.106Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:25:27.813Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:27:48.621Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:36:49.545Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:40:39.544Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:43:30.224Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Homer Simpson logged in (2018-06-29T12:45:32.146Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T12:48:10.357Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"== Report for orders pull job (June 29, 2018 3:58 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 21\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #308","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"== Report for orders pull job (June 29, 2018 4:00 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 20\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #308","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"== Report for orders pull job (June 29, 2018 4:02 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 21\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #528","level":"info"}
+{"message":"Saved to DB order with ID #308","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"== Report for orders pull job (June 29, 2018 4:10 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 20\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #308","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T13:13:33.807Z)","level":"info"}
+{"message":"== Report for orders pull job (June 29, 2018 4:20 PM) ==\r\n\r\nSite #\"colourgraphics\": response code 200, pulled items count 20\r\nSite #\"unicpo\": response code 200, pulled items count 20\r\n","level":"info"}
+{"message":"Saved to DB order with ID #691","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #573","level":"info"}
+{"message":"Saved to DB order with ID #570","level":"info"}
+{"message":"Saved to DB order with ID #564","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #561","level":"info"}
+{"message":"Saved to DB order with ID #560","level":"info"}
+{"message":"Saved to DB order with ID #558","level":"info"}
+{"message":"Saved to DB order with ID #539","level":"info"}
+{"message":"Saved to DB order with ID #538","level":"info"}
+{"message":"Saved to DB order with ID #537","level":"info"}
+{"message":"Saved to DB order with ID #534","level":"info"}
+{"message":"Saved to DB order with ID #533","level":"info"}
+{"message":"Saved to DB order with ID #532","level":"info"}
+{"message":"Saved to DB order with ID #531","level":"info"}
+{"message":"Saved to DB order with ID #530","level":"info"}
+{"message":"Saved to DB order with ID #529","level":"info"}
+{"message":"Saved to DB order with ID #308","level":"info"}
+{"message":"Saved to DB order with ID #302","level":"info"}
+{"message":"Saved to DB order with ID #301","level":"info"}
+{"message":"Saved to DB order with ID #300","level":"info"}
+{"message":"Saved to DB order with ID #299","level":"info"}
+{"message":"Saved to DB order with ID #286","level":"info"}
+{"message":"Saved to DB order with ID #272","level":"info"}
+{"message":"Saved to DB order with ID #271","level":"info"}
+{"message":"Saved to DB order with ID #270","level":"info"}
+{"message":"Saved to DB order with ID #268","level":"info"}
+{"message":"Saved to DB order with ID #198","level":"info"}
+{"message":"Saved to DB order with ID #193","level":"info"}
+{"message":"Saved to DB order with ID #150","level":"info"}
+{"message":"Saved to DB order with ID #134","level":"info"}
+{"message":"Saved to DB order with ID #132","level":"info"}
+{"message":"Saved to DB order with ID #116","level":"info"}
+{"message":"Saved to DB order with ID #110","level":"info"}
+{"message":"Saved to DB order with ID #101","level":"info"}
+{"message":"Saved to DB order with ID #100","level":"info"}
+{"message":"Saved to DB order with ID #99","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T13:31:38.212Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T13:38:29.205Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:23:42.654Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:26:32.984Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:27:50.916Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:28:46.186Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:30:07.219Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:31:58.218Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:32:50.042Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:39:54.629Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:41:27.353Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:43:16.487Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:44:40.415Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:45:59.558Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T14:46:49.503Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:00:27.907Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:03:30.572Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:04:49.220Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:14:57.842Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:18:04.645Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:19:51.978Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:21:23.624Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:22:10.845Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:23:20.059Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:25:40.200Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:26:35.125Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:31:26.063Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:33:58.225Z)","level":"info"}
+{"message":"User Homer Simpson logged in (2018-06-29T15:38:17.955Z)","level":"info"}
+{"message":"User Homer Simpson logged in (2018-06-29T15:38:58.554Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Homer Simpson logged in (2018-06-29T15:44:10.996Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:44:16.983Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-06-29T15:47:44.262Z)","level":"info"}
+{"message":"User Homer Simpson logged in (2018-06-29T15:47:51.736Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T07:54:18.394Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T07:57:25.098Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T08:24:46.045Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T08:25:55.480Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T08:27:44.837Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T08:30:00.415Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T09:01:04.203Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T09:01:41.638Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T09:08:51.749Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T09:09:25.942Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T09:20:09.070Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T10:19:41.351Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T10:35:32.980Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T10:38:21.743Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T10:39:43.810Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T10:41:11.744Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:04:59.846Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:10:35.621Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:15:19.575Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:15:57.952Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:30:16.059Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:31:45.347Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:32:47.980Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:33:31.790Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:41:46.365Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:45:35.187Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:47:39.393Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:53:38.156Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T14:56:43.343Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:07:40.745Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:08:36.384Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:09:16.168Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:17:56.811Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:19:50.943Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:23:56.983Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:41:52.175Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Homer Simpson logged in (2018-07-02T15:50:33.644Z)","level":"info"}
+{"message":"User Homer Simpson logged in (2018-07-02T15:54:29.942Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:54:48.356Z)","level":"info"}
+{"message":"User Homer Simpson logged in (2018-07-02T15:57:10.413Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T15:57:15.982Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T16:25:16.533Z)","level":"info"}
+{"message":"\"apiCall\":: Error: Request failed with status code 500","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'status' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"\"apiCall\":: Error: Request failed with status code 500","level":"error"}
+{"message":"\"sendBatchRequest\":: TypeError: Cannot read property 'status' of undefined","level":"error"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"Saved to DB order with ID #667","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addCronJobs plugin","level":"info"}
+{"message":"User Homer Simpson logged in (2018-07-02T17:03:44.931Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-02T17:03:50.103Z)","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"Saved to DB order with ID #563","level":"info"}
+{"message":"Saved to DB order with ID #596","level":"info"}
+{"message":"Saved to DB order with ID #576","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-06T16:12:45.745Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-06T16:13:23.671Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"addSites plugin","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-06T16:24:34.847Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-06T16:27:00.288Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-06T16:27:23.654Z)","level":"info"}
+{"message":"User Jack Sparrow logged in (2018-07-06T16:27:59.090Z)","level":"info"}
+{"message":"addSites plugin","level":"info"}

@@ -1,0 +1,57 @@
+{"0":"3","1":"0","2":" ","3":"i","4":"s","5":" ","6":"a","7":" ","8":"i","9":"n","10":"v","11":"a","12":"l","13":"i","14":"d","15":" ","16":"e","17":"x","18":"p","19":"r","20":"e","21":"s","22":"s","23":"i","24":"o","25":"n","26":" ","27":"f","28":"o","29":"r","30":" ","31":"h","32":"o","33":"u","34":"r","level":"error","message":"\"plugin: add-cron-jobs\": Error"}
+{"message":"\"plugin: add-cron-jobs\": Error 30 is a invalid expression for hour","level":"error"}
+{"message":"\"plugin: add-cron-jobs\": Error 30 is a invalid expression for hour","level":"error"}
+{"message":"\"plugin: add-cron-jobs\": Error \"30\" is a invalid expression for hour","level":"error"}
+{"message":"\"saveOrdersToDB\": Error TypeError: Cannot read property 'items' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\": Error TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\": Error TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\": Error TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 691","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 667","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 596","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 576","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 573","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 570","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 564","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 563","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 561","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 560","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 558","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 539","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 538","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 537","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 534","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 302","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 301","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 300","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 299","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 286","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 272","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 271","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 270","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 268","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 198","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 193","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 150","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 134","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 132","level":"error"}
+{"message":"\"Saved to DB order with ID:\", 116","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'code' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'code' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'code' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'code' of undefined","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: allItems.toJS is not a function","level":"error"}
+{"message":"\"apiCall\":: Error: timeout of 30000ms exceeded","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'status' of undefined","level":"error"}
+{"message":"\"getSite\":: TypeError: Cannot read property 'db' of undefined","level":"error"}
+{"message":"\"getSite\":: TypeError: Cannot read property 'db' of undefined","level":"error"}
+{"message":"\"getSite\":: TypeError: Cannot read property 'db' of undefined","level":"error"}
+{"message":"\"getSite\":: TypeError: Cannot read property 'db' of undefined","level":"error"}
+{"message":"\"apiCall\":: Error: Request failed with status code 500","level":"error"}
+{"message":"\"getItemsAllSites\":: TypeError: Cannot read property 'status' of undefined","level":"error"}
+{"message":"\"apiCall\":: Error: Request failed with status code 500","level":"error"}
+{"message":"\"sendBatchRequest\":: TypeError: Cannot read property 'status' of undefined","level":"error"}
